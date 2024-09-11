@@ -1,4 +1,6 @@
 # CSE499B-Thesis
+Bangla Sign Language Recognition using Multimodal Late Fusion
+
 This project focuses on developing a Bangla Sign Language recognition system using a video dataset. The dataset includes two modalities: video and audio. To achieve robust sign language recognition, we applied a multimodal approach.
 
 Key Steps:
