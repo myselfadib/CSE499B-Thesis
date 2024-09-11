@@ -10,7 +10,9 @@ Audio Extraction: The audio data from the videos was also extracted and utilized
 Unimodal Models: Separate models were trained on each modality:
 
 Video-based Model: Trained on the extracted video frames to recognize signs from the visual features.
+
 Audio-based Model: Trained on the extracted audio data to capture any audio cues related to the signs.
+
 Multimodal Late Fusion: After training the unimodal models, we applied a multimodal late fusion technique to combine both models' predictions. This fusion technique leverages the complementary strengths of both the video and audio models, improving the accuracy of sign prediction.
 
 The resulting system demonstrates the effectiveness of multimodal learning for recognizing Bangla Sign Language, offering a promising solution for applications in real-time sign language translation and accessibility.
